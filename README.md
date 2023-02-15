@@ -62,5 +62,4 @@ Hi, I'm [Emir Çetin Memiş](linkedin.com/in/emir-çetin-memiş-026b78221), I'm 
 </div>
 
 <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=SplishBoom&theme=react-dark&bg_color=20232a&hide_border=true" width="92%"/>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SplishBoom&theme=react-dark&bg_color=20232a&hide_border=true" width="92%"/>
