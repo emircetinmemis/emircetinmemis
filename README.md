@@ -63,5 +63,4 @@ Hi, I'm [Emir Çetin Memiş](linkedin.com/in/emir-çetin-memiş-026b78221), I'm 
 
 <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=SplishBoom&theme=react-dark&bg_color=20232a&hide_border=true" width="92%"/>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SplishBoom&bg_color=d0c3c3&color=0033ff&line=000000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SplishBoom&theme=react&border_color=61dafb&hide_border=true" width="92%"/>
