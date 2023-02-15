@@ -57,9 +57,13 @@ Hi, I'm [Emir Çetin Memiş](linkedin.com/in/emir-çetin-memiş-026b78221), I'm 
 
 <div>
    <img width=35% align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=SplishBoom&hide=c%23,powershell,css,lua,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-   
    <img align=center width="55%" src="https://github-profile-trophy.vercel.app/?username=SplishBoom&theme=onedark">
 </div>
 
 <br>
+
+<div>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SplishBoom&theme=react-dark&bg_color=20232a&hide_border=true" width="92%"/>
+</div>
+
+<br>
