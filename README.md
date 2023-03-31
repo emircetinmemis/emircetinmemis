@@ -1,22 +1,22 @@
-## >>> "Hello World 🌍", Welcome to my GitHub 😇 ![](https://komarev.com/ghpvc/?username=SplishBoom&color=blue&&style=flat)
+## >>> "Hello World 🌍", Welcome to my GitHub 😇 ![](https://komarev.com/ghpvc/?username=emircetinmemis&color=blue&&style=flat)
 
-Hi, I'm [Emir Çetin Memiş](linkedin.com/in/emir-çetin-memiş-026b78221), I'm currently a computer engineering student at Turkey/MEF university. I am interested in various branches of programming and computers. For more, get [contact](mailto:memise@mef.edu.tr) with me !
+Hi, I'm [Emir Çetin Memiş](linkedin.com/in/emircetinmemis), I'm currently a computer engineering student at Turkey/MEF university. I am interested in various branches of programming and computers. For more, get [contact](mailto:memise@mef.edu.tr) with me !
 
 ## >>> Find Me In 🥷
 
-  <a href="https://linkedin.com/in/emir-çetin-memiş-026b78221/">
+  <a href="https://linkedin.com/in/emircetinmemis/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
 
-  <a href="https://twitter.com/SplishBoom/">
+  <a href="https://twitter.com/emircetinmemis/">
     <img src="https://img.shields.io/badge/twitter-%231da1f1.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>&nbsp;
     
-  <a href="https://www.instagram.com/emircetinmemis.ecm/">
+  <a href="https://www.instagram.com/emircetinmemis.ecm">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;
 
-  <a href="https://www.facebook.com/SplishBoom/">
+  <a href="https://www.facebook.com/emircetinmemis/">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>&nbsp;
 
@@ -49,21 +49,21 @@ Hi, I'm [Emir Çetin Memiş](linkedin.com/in/emir-çetin-memiş-026b78221), I'm 
 ## >>> GitHub Stats 👀
 
 <div>
-   <img width=45% align=left src="https://github-readme-streak-stats.herokuapp.com/?user=SplishBoom&theme=react&border=61dafb&hide_border=true" alt="streak" />
-   <img width=45% align=center src="https://github-readme-stats.vercel.app/api?username=SplishBoom&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+   <img width=45% align=left src="https://github-readme-streak-stats.herokuapp.com/?user=emircetinmemis&theme=react&border=61dafb&hide_border=true" alt="streak" />
+   <img width=45% align=center src="https://github-readme-stats.vercel.app/api?username=emircetinmemis&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div>
 
 <br>
 
 <div>
-   <img width=35% align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=SplishBoom&hide=c%23,powershell,css,lua,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-   <img align=center width="55%" src="https://github-profile-trophy.vercel.app/?username=SplishBoom&theme=onedark">
+   <img width=35% align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircetinmemis&hide=c%23,powershell,css,lua,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+   <img align=center width="55%" src="https://github-profile-trophy.vercel.app/?username=emircetinmemis&theme=onedark">
 </div>
 
 <br>
 
 <div>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SplishBoom&theme=react-dark&bg_color=20232a&hide_border=true" width="92%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=emircetinmemis&theme=react-dark&bg_color=20232a&hide_border=true" width="92%"/>
 </div>
 
 <br>
