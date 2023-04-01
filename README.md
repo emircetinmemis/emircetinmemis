@@ -1,6 +1,6 @@
 ## >>> "Hello World 🌍", Welcome to my GitHub 😇 ![](https://komarev.com/ghpvc/?username=emircetinmemis&color=blue&&style=flat)
 
-Hi, I'm [Emir Çetin Memiş](linkedin.com/in/emircetinmemis), I'm currently a computer engineering student at Turkey/MEF university. I am interested in various branches of programming and computers. For more, get [contact](mailto:memise@mef.edu.tr) with me !
+Hi, I'm [Emir Cetin Memis](linkedin.com/in/emircetinmemis), I'm currently a computer engineering student at Turkey/MEF university. I am interested in various branches of programming and computers. For more, get [contact](mailto:memise@mef.edu.tr) with me !
 
 ### >>> Check out my new website [emircetinmemis.com](https://emircetinmemis.com) 🌐
 
