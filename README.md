@@ -2,7 +2,7 @@
 
 Hi, I'm [Emir Cetin Memis](linkedin.com/in/emircetinmemis), I'm currently a computer engineering student at Turkey/MEF university. I am interested in various branches of programming and computers. For more, get [contact](mailto:memise@mef.edu.tr) with me !
 
-### >>> Check out my new website [emircetinmemis.com](https://emircetinmemis.com) 🌐
+### >>> Check out my new website [emircetinmemis.com](https://emircetinmemis.github.io) 🌐
 
 ## >>> Find Me In 🥷
 
