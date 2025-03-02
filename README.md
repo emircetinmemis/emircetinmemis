@@ -73,7 +73,7 @@ Hello! I'm **Emir Cetin Memis**, a Machine Learning Engineer based in Istanbul, 
 <div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Solutions-FF0000?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Machine Learning Solutions"/>
   <img src="https://img.shields.io/badge/Data%20Engineering-Insights-FF0000?style=for-the-badge&logo=data&logoColor=FFFFFF" alt="Data Engineering"/>
-  <img src="https://img.shields.io/badge/AI-Driven-Automation-FF0000?style=for-the-badge&logo=robot&logoColor=FFFFFF" alt="AI-Driven Automation"/>
+  <img src="https://img.shields.io/badge/AI%20Driven-Automation-FF0000?style=for-the-badge&logo=robot&logoColor=FFFFFF" alt="AI-Driven Automation"/>
   <img src="https://img.shields.io/badge/Advanced-Analytics-FF0000?style=for-the-badge&logo=chart-line&logoColor=FFFFFF" alt="Advanced Analytics"/>
 </div>
 
