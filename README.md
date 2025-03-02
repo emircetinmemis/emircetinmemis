@@ -1,10 +1,15 @@
-<!-- Animated Banner -->
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=580&height=60&lines=Hi+there+%F0%9F%91%8B;I'm+Emir+Cetin+Memis;Machine+Learning+Engineer;Passionate+Innovator" alt="Animated Typing Banner" />
-  </a>
-</p>
+<div align="center">
+  <!-- Animated Banner -->
+  <p align="center">
+    <!-- Typing SVG by DenverCoder1 -->
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=580&height=60&lines=Hi+there+%F0%9F%91%8B;I'm+Emir+Cetin+Memis;Machine+Learning+Engineer;Passionate+Innovator" alt="Animated Typing Banner" />
+    </a>
+  </p>
+
+  <!-- Profile Visitors -->
+  <img src="https://komarev.com/ghpvc/?username=emircetinmemis&style=flat-square&color=FF0000&label=VISITORS" alt="Profile Visitors" />
+</div>
 
 ## Who Am I?
 Hello! I'm **Emir Cetin Memis**, a Machine Learning Engineer based in Istanbul, Turkey. I love turning complex data into actionable insights and pushing the boundaries of what's possible with algorithms and creative coding. Welcome to my GitHub space—where innovation meets art and technology!
@@ -113,28 +118,28 @@ Check out some of my innovative projects that blend creativity with technical ex
 
 ---
 
-## GitHub Stats, Contributions & More
+## Stats & Contributions
 <div align="center">
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=emircetinmemis&show_icons=true&hide_border=true&bg_color=252525&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" alt="GitHub Stats" height="150"/>
   
   <!-- GitHub Streak Stats Card -->
   <img src="https://streak-stats.demolab.com?user=emircetinmemis&theme=blood&hide_border=true&border_radius=5" alt="GitHub Streak" height="150"/>
-  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=emircetinmemis&theme=onedark&no-frame=true&no-bg=true&margin-w=5&column=4" alt="GitHub Trophies" width="100%"/>
-  
-  <!-- Profile Visitors -->
-  <img src="https://komarev.com/ghpvc/?username=emircetinmemis&style=flat-square&color=FF0000&label=VISITORS" alt="Profile Visitors" />
-</div>
 
-<div align="center">
   <!-- Contribution Graph Widget -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emircetinmemis/emircetinmemis/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emircetinmemis/emircetinmemis/output/github-snake.svg">
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/emircetinmemis/emircetinmemis/output/github-snake.svg">
   </picture>
+</div>
+
+---
+
+## Not Clash, but got some Trophies !
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=emircetinmemis&theme=onedark&no-frame=true&no-bg=true&margin-w=5&column=4" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
