@@ -1,7 +1,3 @@
-<!-- 
-⚠️ NOTE: Customize all links, repo names, and personal details as needed.
--->
-
 <!-- Animated Banner -->
 <p align="center">
   <!-- Typing SVG by DenverCoder1 -->
@@ -134,8 +130,14 @@ Check out some of my innovative projects that blend creativity with technical ex
 
 <div align="center">
   <!-- Contribution Graph Widget -->
-  ![snake gif](https://github.com/emircetinmemis/emircetinmemis/blob/output/github-snake-dark.svg)
-</div>---
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emircetinmemis/emircetinmemis/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emircetinmemis/emircetinmemis/output/github-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/emircetinmemis/emircetinmemis/output/github-snake.svg">
+  </picture>
+</div>
+
+---
 
 ## Fun & Personal
 When I'm not coding, you'll find me exploring new tech trends, enjoying paintball, camping under the stars, or tinkering with automotive projects. I also love diving into creative coding projects that blur the line between art and technology.
