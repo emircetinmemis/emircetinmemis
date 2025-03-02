@@ -134,10 +134,8 @@ Check out some of my innovative projects that blend creativity with technical ex
 
 <div align="center">
   <!-- Contribution Graph Widget -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=emircetinmemis&bg_color=252525&color=FF0000&line=FFFFFF&point=FF0000&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
+  ![snake gif](https://github.com/emircetinmemis/emircetinmemis/blob/output/github-snake-dark.svg)
+</div>---
 
 ## Fun & Personal
 When I'm not coding, you'll find me exploring new tech trends, enjoying paintball, camping under the stars, or tinkering with automotive projects. I also love diving into creative coding projects that blur the line between art and technology.
